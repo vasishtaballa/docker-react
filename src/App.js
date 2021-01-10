@@ -9,6 +9,7 @@ function App() {
         <p>
           This is hello world project
         </p>
+        <p>This is from feature branch</p>
         <a
           className="App-link"
           href="https://reactjs.org"
